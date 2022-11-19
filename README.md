@@ -19,14 +19,6 @@ We provide:
 - Instructions for [evaluating your model](#evaluation).
 - Scripts to create GTSDB TFRecords.
 
-If you find this code useful in your research, please cite:
-
-```
-"Evaluation of deep neural networks for traffic sign detection systems."
-Álvaro Arcos-García, Juan A. Álvarez-García, Luis M. Soria-Morillo. Neurocomputing 316 (2018) 332-344.
-```
-\[[link](https://doi.org/10.1016/j.neucom.2018.08.009)\]\[[bibtex](
-https://scholar.googleusercontent.com/citations?view_op=export_citations&user=gjecl3cAAAAJ&citsig=AMstHGQAAAAAW88AbhXW-l4i_qhFLdvy09TVYklB-yqs&hl=en)\]
 
 ## Requirements
 This project is implemented in [Tensorflow](https://www.tensorflow.org/) and it is based on two repositories: [Tensorflow Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection) and [darkflow](https://github.com/thtrieu/darkflow).
