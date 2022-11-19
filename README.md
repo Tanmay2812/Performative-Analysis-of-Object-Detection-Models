@@ -1,12 +1,12 @@
 # Traffic Sign Detection
-Hi,This is the code for the paper
+<!-- Hi,This is the code for the paper -->
 
 **[Evaluation of deep neural networks for traffic sign detection systems](https://doi.org/10.1016/j.neucom.2018.08.009)**
-<br>
+<!-- <br>
 [Álvaro Arcos-García](https://scholar.google.com/citations?user=gjecl3cAAAAJ),
 [Juan Antonio Álvarez-García](https://scholar.google.com/citations?user=Qk79xk8AAAAJ),
 [Luis M. Soria-Morillo](https://scholar.google.com/citations?user=poBDpFkAAAAJ)
-<br>
+<br> -->
 
 The paper addresses the problem of traffic sign detection analysing the state-of-the-art of several object-detection systems (Faster R-CNN, R-FCN, SSD, and YOLO V2) combined with various feature extractors (Resnet V1 50, Resnet V1 101, Inception V2, Inception Resnet V2, Mobilenet V1, and Darknet-19). We aim to explore the properties of these object-detection models which are modified and specifically adapted to the traffic sign detection problem domain by means of transfer learning. In particular, various publicly available object-detection models that were pre-trained on the Microsoft COCO dataset are fine-tuned on the [German Traffic Sign Detection Benchmark](http://benchmark.ini.rub.de/?section=gtsdb) dataset. The evaluation and comparison of these models include key metrics, such as the mean average precision (mAP), memory allocation, running time, number of floating point operations, number of parameters of the model, and the effect of traffic sign image sizes.
 ![Detection example](detection_example.png?raw=True "Detection example")
