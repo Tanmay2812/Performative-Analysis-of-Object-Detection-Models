@@ -1,10 +1,2 @@
-torch
-torchvision
-ninja
-yacs
-cython
-matplotlib
-tqdm
-opencv-python
-scikit-image
-
+numpy
+torch>=1.8
